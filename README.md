@@ -22,7 +22,9 @@ plus the sidebar (since it doesn't contain anything useful)
 1. Visit the [MyOwnFreeHost Reseller Panel](https://panel.myownfreehost.net/)
 2. Click on **Your Adverts** > **Control Panel Advert Control**
 3. Paste the following HTML code in the **Bottom advert for..** field:
-`<script src="https://secton.eu.org/api/vistavanish" type="text/javascript"></script>`
+```js
+<script src="https://secton.eu.org/api/vistavanish" type="text/javascript"></script>
+```
 4. Click on **Add / Change advert code** and you're done
 
 ## License
