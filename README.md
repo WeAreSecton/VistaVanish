@@ -1,3 +1,5 @@
+# [NO LONGER MAINTAINED - DO NOT USE]
+
 # VistaVanish (for MyOwnFreeHost)
 This is a JavaScript script that hides unnecessary and outdated items in the vPanel (VistaPanel). By using this script, you can hide items that are unnecessary or outdated, making it easier to navigate the control panel.
 
